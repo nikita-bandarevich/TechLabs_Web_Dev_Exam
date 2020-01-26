@@ -1,5 +1,5 @@
 # TechLabs_Web_Dev_Exam
-Final exam for our TechLabs Barcelona batch in February 2020
+Final exam for our TechLabs Barcelona batch in February 2020🌴.
 
 ## Why exam?
 In order ro assess your progress we have prepared a challenge for you. Now, the main reason fo having this is that we can't assess your progress solely based on the analytical tools we have since those are easy to cheat on. Moreover, this year some of our projects will be of professional nature. We are currently finalizyng some of the contracts and are looking for capable people to deliver. 
@@ -15,15 +15,15 @@ This consists of creating a **one-pager landing page**. The main focus of our ev
 
 ## Hard Version
 
-Quick note: if you are unsure of your react knowledge or haven't completed our course of React we would recommend you **NOT to do the version**.
+Quick note: if you are unsure of your React knowledge or haven't even started with our React course, we would strongly recommend you **NOT to do this version of the exam**.
 
-Consists of implementing the concepts learnt of React by **creating a Search App** from scratch. Here are the essential features we expect to see from you:
+Consists of implementing the concepts learnt in React course by **creating a Search App** from scratch. Since the course didn't cover eeverything we are asking from you, we expect you to use the online community to find anything else you need. Here are the essential features we expect to see from you:
 - It's a one pager that consists of a search bar, a list of elements and the name+info/image of the selected element. 
 - When a user types a query, the list of elements should display the 10 first results of the chosen api return/.
 - When a user clicks on an element from the list, it should appear on the main scene on the left.
 - UI and Front-End should be of high quality, showing us your CSS&HTML knowledge. 
-- (Optional) When a user focuses in / out of the input, find a nice way to twist the UI on the left part (opacity, background-color, border...) to show your user he's in / out of the input!
 
+Below you can see one of the possibilities to implement this challenge, yours doesn't have to be the same. 
 ![image](react.png)
 
 
