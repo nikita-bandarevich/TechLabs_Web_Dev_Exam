@@ -27,8 +27,10 @@ Lastly, we don't expect you to have a perfect style so no need to worry much abo
 ``` 
 cd ~/code/<github_username>
 
-# clone new project `techlabs-final`
-git clone git@github.com:nikita-bandarevich/techlabs-final.git techlabs-final
+#fork from https://github.com/nikita-bandarevich/TechLabs_Web_Dev_Exam
+
+# clone new project from your forked repository 
+git clone git@github.com:{username}/TechLabs_Web_Dev_Exam.git techlabs-final
 cd techlabs-final
 yarn install
 
