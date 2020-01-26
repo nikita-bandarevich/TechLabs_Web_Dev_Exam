@@ -8,10 +8,10 @@ In order ro assess your progress we have prepared a challenge for you. Now, the 
 Let me explain the parts of the exam. First of all you will have a final decision of choosing to complete either an easier version or a more complicated one involving some back-end development with react. Good news is that by passing the easier version of the challenge, you will continue to be part of TechLabs and will be able to complete a project with your other team mates. However, **when choosing for people for a professional project for a company we will give preference to the candidates who have completed the tougher version**. Therefore, for those of you who want to secure a position for a **professional webdev project for a client you SHOULD complete the second version**. As a final reminder, in **none of the cases** should you do both versions. The final deliverable expected from either of the versions is a working website hosted on github pages or any other platform such as herokuapp or even a customized URL **+** your github repository with the code used. **In case you have used platforms like Wix for development you will be instanly out of TechLabs**.
 
 ## Easy Version 
-This consists of creating a **one-pager landing page**. The main focus of our evaluation will be on the UX/UI of your website. Therefore, you will have to show a proficiency with CSS and HTML. Here are a coule of ideas for your landing page:
+This consists of creating a **one-pager landing page**. The main focus of our evaluation will be on the UX/UI of your website. Therefore, you will have to show a proficiency with CSS and HTML. For those of you wanting to have more fun, we also welcome experimental design, so don't fear to open your mind to new ideas🧠. Here are a couple of ideas for your landing page:
 - Your own portfolio website.
-- A redesign of one of the websites main page.
-- Anything of you imagination including your hobbies, virtual worlds, etc. 
+- Redesign of any website's main page.
+- Anything of your imagination including your hobbies, virtual worlds, etc. 
 
 ## Hard Version
 
