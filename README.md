@@ -16,7 +16,6 @@ This consists of creating a **one-pager landing page**. The main focus of our ev
 ## Hard Version
 
 Quick note: if you are unsure of your react knowledge or haven't completed our course of React we would recommend you **NOT to do the version**.
-![image](react.png)
 
 Consists of implementing the concepts learnt of React by **creating a Search App** from scratch. Here are the essential features we expect to see from you:
 - It's a one pager that consists of a search bar, a list of elements and the name+info/image of the selected element. 
@@ -24,6 +23,8 @@ Consists of implementing the concepts learnt of React by **creating a Search App
 - When a user clicks on an element from the list, it should appear on the main scene on the left.
 - UI and Front-End should be of high quality, showing us your CSS&HTML knowledge. 
 - (Optional) When a user focuses in / out of the input, find a nice way to twist the UI on the left part (opacity, background-color, border...) to show your user he's in / out of the input!
+
+![image](react.png)
 
 
 ## How to start 
@@ -49,3 +50,7 @@ git push origin master
 # Time to open Sublime Text or any other IDE of your choice and code.
 stt/ ... 
 ```
+
+If you are having any problems in regards to this 'how to start', you are free to create a repository on your own, without forking mine. Just make sure that you indicate that it's related to the exam for TechLabs. 
+
+#Let's Jamm! 
