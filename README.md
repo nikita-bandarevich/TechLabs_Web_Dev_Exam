@@ -53,4 +53,4 @@ stt/ ...
 
 If you are having any problems in regards to this 'how to start', you are free to create a repository on your own, without forking mine. Just make sure that you indicate that it's related to the exam for TechLabs. 
 
-# Let's Jamm! 
+# Let's Jamm!🧙‍♂️
