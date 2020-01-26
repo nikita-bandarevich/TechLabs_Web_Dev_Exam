@@ -16,7 +16,7 @@ This consists of creating a **one-pager landing page**. The main focus of our ev
 ## Hard Version
 
 Quick note: if you are unsure of your react knowledge or haven't completed our course of React we would recommend you **NOT to do the version**.
-![image](https://raw.githubusercontent.com/nikita-bandarevich/TechLabs_Web_Dev_Exam/react.png)
+![image](react.png)
 
 Consists of implementing the concepts learnt of React by **creating a Search App** from scratch. Here are the essential features we expect to see from you:
 - It's a one pager that consists of a search bar, a list of elements and the name+info/image of the selected element. 
