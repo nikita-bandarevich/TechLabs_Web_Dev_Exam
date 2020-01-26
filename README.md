@@ -1,5 +1,5 @@
 # TechLabs_Web_Dev_Exam
-Final exam for our TechLabs Barcelona batch in February 2020🌴.
+Final exam for our TechLabs Barcelona batch in 2020🌴.
 
 ## Why exam?
 In order ro assess your progress we have prepared a challenge for you. Now, the main reason fo having this is that we can't assess your progress solely based on the analytical tools we have since those are easy to cheat on. Moreover, this year some of our projects will be of professional nature. We are currently finalizyng some of the contracts and are looking for capable people to deliver. 
