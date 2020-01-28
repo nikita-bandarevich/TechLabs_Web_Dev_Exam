@@ -12,6 +12,7 @@ This consists of creating a **one-pager landing page**. The main focus of our ev
 - Your own portfolio website.
 - Redesign of any website's main page.
 - Anything of your imagination including your hobbies, virtual worlds, etc. 
+
 If the implementation is extremely good, having used good storytelling, meaningful UX and UI, you will still have chances of getting the professional project afterwards with a focus on Front-End and UX/UI. So, for those of you choosing this challenge, I would strongly recommend spending a lot of time on your design and other things previously mentioned. 
 
 ## Harder Version
